@@ -4,3 +4,7 @@
 [a,b] = [b,a]
 Example of JavaScript array destructuring
 ```
+- [x] Add task list
+- [ ] Finish Markdown tutorial
+- [ ] Do GitHub Pages tutorial
+- [ ] Continue learning Python
